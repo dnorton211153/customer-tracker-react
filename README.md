@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Norton's Customer Tracker
+
+This application will provide two separate components:
+
+(1) A public page which communicates to an AWS lambda to store new customer records.
+(2) A private (internal) portal for customer tracking, based on the same hosted database.
+
+The former will be hosted by GitHub Pages or something similar (Amplify?) for public consumption.
+The latter is designed to be run on an internal company network (with Internet access), to interface with the database.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

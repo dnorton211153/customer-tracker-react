@@ -3,7 +3,7 @@ import React from 'react'
 export const Header = () => {
   return (
     <h2>
-      Customer Tracker
+      Norton's Customer Tracker
     </h2>
   )
 }
